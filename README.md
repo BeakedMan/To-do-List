@@ -1,5 +1,7 @@
 # To-Do List Application
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/149809c8-2020-4607-bcbc-14dc2b15348d/deploy-status)](https://app.netlify.com/sites/stellar-paletas-3762d7/deploys)
+
 This project is a "To-Do List" web application built using React.js. The primary goal of the application is to provide a simple and efficient interface for users to manage their daily tasks.
 
 ## Frameworks and Languages Used
